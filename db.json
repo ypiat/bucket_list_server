@@ -1,0 +1,38 @@
+{
+  "buckets": [
+    {
+      "id": 1,
+      "name": "Pics",
+      "location": "Ljubljana",
+      "storageSize": "4.9 GB",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "BestStorage",
+      "location": "Kranj",
+      "storageSize": "4.9 GB",
+      "files": []
+    }
+  ],
+  "cities": [
+    {
+      "name": "Kranj"
+    },
+    {
+      "name": "Ljubljana"
+    },
+    {
+      "name": "Celje"
+    },
+    {
+      "name": "Ptuj"
+    },
+    {
+      "name": "Maribor"
+    },
+    {
+      "name": "Ormož"
+    }
+  ]
+}
